@@ -1,0 +1,21 @@
+D:\KIU Campus  Note\Note PDF\semester 5\VP\student registration form\student registration form\bin\Debug\student registration form.exe.config
+D:\KIU Campus  Note\Note PDF\semester 5\VP\student registration form\student registration form\bin\Debug\student registration form.exe
+D:\KIU Campus  Note\Note PDF\semester 5\VP\student registration form\student registration form\bin\Debug\student registration form.pdb
+D:\KIU Campus  Note\Note PDF\semester 5\VP\student registration form\student registration form\obj\Debug\student registration form.csproj.AssemblyReference.cache
+D:\KIU Campus  Note\Note PDF\semester 5\VP\student registration form\student registration form\obj\Debug\student_registration_form.Form1.resources
+D:\KIU Campus  Note\Note PDF\semester 5\VP\student registration form\student registration form\obj\Debug\student_registration_form.Properties.Resources.resources
+D:\KIU Campus  Note\Note PDF\semester 5\VP\student registration form\student registration form\obj\Debug\student registration form.csproj.GenerateResource.cache
+D:\KIU Campus  Note\Note PDF\semester 5\VP\student registration form\student registration form\obj\Debug\student registration form.csproj.CoreCompileInputs.cache
+D:\KIU Campus  Note\Note PDF\semester 5\VP\student registration form\student registration form\obj\Debug\student registration form.exe
+D:\KIU Campus  Note\Note PDF\semester 5\VP\student registration form\student registration form\obj\Debug\student registration form.pdb
+D:\KIU Campus  Note\Note PDF\semester 5\VP-inomi\student registration form\student registration form\bin\Debug\student registration form.exe.config
+D:\KIU Campus  Note\Note PDF\semester 5\VP-inomi\student registration form\student registration form\bin\Debug\student registration form.exe
+D:\KIU Campus  Note\Note PDF\semester 5\VP-inomi\student registration form\student registration form\bin\Debug\student registration form.pdb
+D:\KIU Campus  Note\Note PDF\semester 5\VP-inomi\student registration form\student registration form\obj\Debug\student registration form.csproj.AssemblyReference.cache
+D:\KIU Campus  Note\Note PDF\semester 5\VP-inomi\student registration form\student registration form\obj\Debug\student_registration_form.Form1.resources
+D:\KIU Campus  Note\Note PDF\semester 5\VP-inomi\student registration form\student registration form\obj\Debug\student_registration_form.Properties.Resources.resources
+D:\KIU Campus  Note\Note PDF\semester 5\VP-inomi\student registration form\student registration form\obj\Debug\student registration form.csproj.GenerateResource.cache
+D:\KIU Campus  Note\Note PDF\semester 5\VP-inomi\student registration form\student registration form\obj\Debug\student registration form.csproj.CoreCompileInputs.cache
+D:\KIU Campus  Note\Note PDF\semester 5\VP-inomi\student registration form\student registration form\obj\Debug\student registration form.exe
+D:\KIU Campus  Note\Note PDF\semester 5\VP-inomi\student registration form\student registration form\obj\Debug\student registration form.pdb
+D:\KIU Campus  Note\Note PDF\semester 5\VP-inomi\student registration form\student registration form\obj\Debug\student registration form.exe.config
